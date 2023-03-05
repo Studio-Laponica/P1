@@ -31,3 +31,7 @@
 
 구현된 것:기초적인 틀(캐릭터 선택->마을->전투(현재 자동으로 전투와 그 결과가 나옴))
 구현 되어야하는 것:수동전투, 행동의 선택지(스킬, 방어, 도주 등등), 전투 후 전리품, 가방, 상점구매
+<img width="860" alt="스크린샷 2023-03-05 155426" src="https://user-images.githubusercontent.com/126967150/222948867-e1e1b4fe-45d0-4ad7-9c66-f8994b8f11a2.png">
+<img width="856" alt="스크린샷 2023-03-05 155442" src="https://user-images.githubusercontent.com/126967150/222948868-38f5ae5a-b8a7-4dc3-86ef-94394003bfa3.png">
+<img width="874" alt="스크린샷 2023-03-05 155454" src="https://user-images.githubusercontent.com/126967150/222948869-276aa473-521c-417e-8171-0018796e8c02.png">
+<img width="861" alt="스크린샷 2023-03-05 155844" src="https://user-images.githubusercontent.com/126967150/222948870-1c813bc3-7874-4ec6-bdfc-4a98b66cf573.png">
